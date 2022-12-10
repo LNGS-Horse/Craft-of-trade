@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    },
+    {
+      "item": "steward:coin"
+    }
+  ],
+  "result": {
+    "item": "steward:compresscoin",
+    "count": 1
+  }
+}

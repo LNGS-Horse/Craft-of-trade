@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "steward:compresscoin"
+    },
+    {
+      "item": "steward:compresscoin"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "steward:compresscoin"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "steward:tradepickaxe",
+    "count": 1
+  }
+}

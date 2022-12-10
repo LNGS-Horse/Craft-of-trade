@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "steward",
+  "version": "1.0.0",
+  "name": "游戏管家",
+  "authors": [
+    "LNGS- Horse"
+  ],
+  "contact": {
+    "homepage": "https://github.com/LNGS-Horse/Craft-of-trade",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "accessWidener": "steward.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.steward.StewardMod"
+    ],
+    "client": [
+      "net.mcreator.steward.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

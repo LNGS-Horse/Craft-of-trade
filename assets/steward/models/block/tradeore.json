@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steward:blocks/kuang_1shang_",
+    "up": "steward:blocks/kuang_1shang_",
+    "north": "steward:blocks/kuang_1shang_",
+    "east": "steward:blocks/kuang_1shang_",
+    "south": "steward:blocks/kuang_1shang_",
+    "west": "steward:blocks/kuang_1shang_",
+    "particle": "steward:blocks/kuang_1shang_"
+  }
+}
